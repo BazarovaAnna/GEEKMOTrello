@@ -1,0 +1,5343 @@
+{
+  "id": "63629cd1678d5901ebd2a324",
+  "name": "Тестим для гикмы",
+  "desc": "",
+  "descData": null,
+  "closed": false,
+  "dateClosed": null,
+  "idOrganization": "60de53ef049b7e754f2d25de",
+  "idEnterprise": null,
+  "limits": {
+    "attachments": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 36000,
+        "warnAt": 28800
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "boards": {
+      "totalMembersPerBoard": {
+        "status": "ok",
+        "disableAt": 1600,
+        "warnAt": 1280
+      },
+      "totalAccessRequestsPerBoard": {
+        "status": "ok",
+        "disableAt": 4000,
+        "warnAt": 3200
+      }
+    },
+    "cards": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4000
+      },
+      "openPerList": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4000
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 2000000,
+        "warnAt": 1600000
+      },
+      "totalPerList": {
+        "status": "ok",
+        "disableAt": 1000000,
+        "warnAt": 800000
+      }
+    },
+    "checklists": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 1800000,
+        "warnAt": 1440000
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "checkItems": {
+      "perChecklist": {
+        "status": "ok",
+        "disableAt": 200,
+        "warnAt": 160
+      }
+    },
+    "customFields": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 40
+      }
+    },
+    "customFieldOptions": {
+      "perField": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 40
+      }
+    },
+    "labels": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "lists": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 3000,
+        "warnAt": 2400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    },
+    "reactions": {
+      "perAction": {
+        "status": "ok",
+        "disableAt": 900,
+        "warnAt": 720
+      },
+      "uniquePerAction": {
+        "status": "ok",
+        "disableAt": 17,
+        "warnAt": 14
+      }
+    }
+  },
+  "pinned": false,
+  "starred": false,
+  "url": "https://trello.com/b/NPKNRJxA/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D0%BC-%D0%B4%D0%BB%D1%8F-%D0%B3%D0%B8%D0%BA%D0%BC%D1%8B",
+  "prefs": {
+    "permissionLevel": "org",
+    "hideVotes": false,
+    "voting": "disabled",
+    "comments": "members",
+    "invitations": "members",
+    "selfJoin": true,
+    "cardCovers": true,
+    "isTemplate": false,
+    "cardAging": "regular",
+    "calendarFeedEnabled": false,
+    "hiddenPluginBoardButtons": [
+      "55a5d916446f517774210006",
+      "6140cb068b743d7e6e59d6d0",
+      "620422ba06122a0cfc5cd3dd",
+      "58d4259b89d6d7e47a899239"
+    ],
+    "switcherViews": [
+      {
+        "_id": "63629cd1678d5901ebd2a325",
+        "viewType": "Board",
+        "enabled": true
+      },
+      {
+        "_id": "63629cd1678d5901ebd2a326",
+        "viewType": "Table",
+        "enabled": true
+      },
+      {
+        "_id": "63629cd1678d5901ebd2a327",
+        "viewType": "Calendar",
+        "enabled": false
+      },
+      {
+        "_id": "63629cd1678d5901ebd2a328",
+        "viewType": "Dashboard",
+        "enabled": false
+      },
+      {
+        "_id": "63629cd1678d5901ebd2a329",
+        "viewType": "Timeline",
+        "enabled": false
+      },
+      {
+        "_id": "63629cd1678d5901ebd2a32a",
+        "viewType": "Map",
+        "enabled": false
+      }
+    ],
+    "background": "63629651a7b5bd006e88bf5f",
+    "backgroundColor": null,
+    "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/8f889d9a6997a7ce3f09c111ad10dbe5/photo-1666891827481-8fbc6b5082fa",
+    "backgroundImageScaled": [
+      {
+        "width": 67,
+        "height": 100,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/67x100/9258517d84864cf76d46aa64b03077b0/photo-1666891827481-8fbc6b5082fa.jpg"
+      },
+      {
+        "width": 129,
+        "height": 192,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/129x192/9258517d84864cf76d46aa64b03077b0/photo-1666891827481-8fbc6b5082fa.jpg"
+      },
+      {
+        "width": 323,
+        "height": 480,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/323x480/9258517d84864cf76d46aa64b03077b0/photo-1666891827481-8fbc6b5082fa.jpg"
+      },
+      {
+        "width": 645,
+        "height": 960,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/645x960/9258517d84864cf76d46aa64b03077b0/photo-1666891827481-8fbc6b5082fa.jpg"
+      },
+      {
+        "width": 689,
+        "height": 1024,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/689x1024/9258517d84864cf76d46aa64b03077b0/photo-1666891827481-8fbc6b5082fa.jpg"
+      },
+      {
+        "width": 861,
+        "height": 1280,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/861x1280/9258517d84864cf76d46aa64b03077b0/photo-1666891827481-8fbc6b5082fa.jpg"
+      },
+      {
+        "width": 1076,
+        "height": 1600,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1076x1600/9258517d84864cf76d46aa64b03077b0/photo-1666891827481-8fbc6b5082fa.jpg"
+      },
+      {
+        "width": 1291,
+        "height": 1920,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1291x1920/9258517d84864cf76d46aa64b03077b0/photo-1666891827481-8fbc6b5082fa.jpg"
+      },
+      {
+        "width": 1377,
+        "height": 2048,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/8f889d9a6997a7ce3f09c111ad10dbe5/photo-1666891827481-8fbc6b5082fa"
+      }
+    ],
+    "backgroundTile": false,
+    "backgroundBrightness": "light",
+    "backgroundBottomColor": "#d3d4e7",
+    "backgroundTopColor": "#dcd4e3",
+    "canBePublic": true,
+    "canBeEnterprise": true,
+    "canBeOrg": true,
+    "canBePrivate": true,
+    "canInvite": true
+  },
+  "shortLink": "NPKNRJxA",
+  "subscribed": false,
+  "labelNames": {
+    "green": "",
+    "yellow": "",
+    "orange": "",
+    "red": "",
+    "purple": "",
+    "blue": "Онлайн",
+    "sky": "",
+    "lime": "",
+    "pink": "",
+    "black": "",
+    "green_dark": "",
+    "yellow_dark": "",
+    "orange_dark": "",
+    "red_dark": "",
+    "purple_dark": "",
+    "blue_dark": "",
+    "sky_dark": "",
+    "lime_dark": "",
+    "pink_dark": "",
+    "black_dark": "",
+    "green_light": "",
+    "yellow_light": "",
+    "orange_light": "",
+    "red_light": "",
+    "purple_light": "",
+    "blue_light": "",
+    "sky_light": "",
+    "lime_light": "",
+    "pink_light": "",
+    "black_light": ""
+  },
+  "powerUps": [],
+  "dateLastActivity": "2022-11-02T20:19:37.797Z",
+  "dateLastView": "2022-11-02T20:20:49.007Z",
+  "shortUrl": "https://trello.com/b/NPKNRJxA",
+  "idTags": [],
+  "datePluginDisable": null,
+  "creationMethod": null,
+  "ixUpdate": "386",
+  "templateGallery": null,
+  "enterpriseOwned": false,
+  "idBoardSource": null,
+  "premiumFeatures": [
+    "additionalBoardBackgrounds",
+    "additionalStickers",
+    "customBoardBackgrounds",
+    "customEmoji",
+    "customStickers",
+    "plugins"
+  ],
+  "idMemberCreator": "5ec17deb789acf1add806c21",
+  "actions": [
+    {
+      "id": "6362ceb00a212701f1b84ffd",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "isTemplate": false,
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "isTemplate": true
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T20:10:24.003Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362ceaa3c46420029c4c21c",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "isTemplate": true,
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "isTemplate": false
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T20:10:18.565Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362cc7bc6a9920514cbf5c7",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "id": "63629ee87f6da90591019798",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "name": "Стрим: WC3 Reforged"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T20:00:59.397Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362c7f380bf4c02110140e2",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "list": {
+          "id": "6362c7f380bf4c02110140bf",
+          "name": "Выполнено"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2022-11-02T19:41:39.399Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362c7c9f2a1b801c70844ed",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "Место и время\n==============================\nYouTube: https://youtube.com/@geekmo\n19:00 - 22:00\nПосты VK\n==============================\n30.10 (вс), 14:00\n01.11 (вт), 19:00",
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "desc": "Место и время\n==============================\nYouTube: https://youtube.com/@geekmo\n19:00 - 22:00\nСММ\n==============================\nПосты VK\n---------------------------------------------------\n30.10 (вс), 14:00\n01.11 (вт), 19:00\nСобытие Discord\n---------------------------------------------------\n28.10 (пт), 12:00"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T19:40:57.522Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362bfb7eec43104dfed9a1d",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "name": "Стрим: WC3 Reforged",
+          "id": "63629ee87f6da90591019798",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "name": "Стрим: WC3 Reforged [01.11]"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T19:06:31.563Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362af7a7d40a1039fe30af9",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "plugin": {
+          "id": "58d4259b89d6d7e47a899239",
+          "idOrganizationOwner": "4f79168bbaccadea3f0a7ec4",
+          "author": "Zapier",
+          "capabilities": [
+            "board-buttons",
+            "callback",
+            "authorization-status",
+            "show-authorization"
+          ],
+          "capabilitiesOptions": [],
+          "categories": [
+            "automation",
+            "board-utilities"
+          ],
+          "iframeConnectorUrl": "https://zapier.gitlab.io/zapier-trello-powerup/index.html",
+          "name": "Zapier",
+          "privacyUrl": "https://zapier.com/privacy",
+          "public": true,
+          "moderatedState": null,
+          "supportEmail": "contact@zapier.com",
+          "url": "https://zapier.github.io/zapier-trello-powerup/manifest.json",
+          "tags": [],
+          "claimedDomains": [],
+          "icon": {
+            "url": "https://cdn.zappy.app/7a9a6758066ae1df5210d12ddf935278.png"
+          },
+          "listing": {
+            "name": "Zapier",
+            "locale": "en-US",
+            "description": "![Zapier](https://cdn.zappy.app/ae0ec7e7ad64a15464a72e68afb91b51.png)\n\nAutomate repetitive tasks so you can focus on your most important work. [Zapier](https://zapier.com) connects Trello to 1000+ apps, including Google Sheets, Evernote, HubSpot, Facebook and more.\n\nSet up time-saving automations in a few clicks to move info and get things done between all your favorite apps.\n\n\n###How it works:\n![](https://cdn.zappy.app/2f57b6edab48f002594d44642fb2e0eb.png)\n\n###Click the \"Add Power-Up\" button at the top of this page to start using Zapier with Trello!",
+            "overview": "Automate repetitive tasks so you can focus on your most important work. Zapier connects Trello to 1000+ apps."
+          },
+          "isCompliantWithPrivacyStandards": null,
+          "usageBrackets": {
+            "boards": 100000
+          }
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "disablePlugin",
+      "date": "2022-11-02T17:57:14.481Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362af775fe23d036c4dd8bb",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "prefs": {
+            "hiddenPluginBoardButtons": [
+              "58d4259b89d6d7e47a899239"
+            ]
+          },
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "old": {
+          "prefs": {
+            "hiddenPluginBoardButtons": [
+              "55a5d916446f517774210006",
+              "6140cb068b743d7e6e59d6d0",
+              "620422ba06122a0cfc5cd3dd",
+              "58d4259b89d6d7e47a899239"
+            ]
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateBoard",
+      "date": "2022-11-02T17:57:11.658Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362acdcb17b6f004b4d6fa7",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "plugin": {
+          "id": "58d4259b89d6d7e47a899239",
+          "idOrganizationOwner": "4f79168bbaccadea3f0a7ec4",
+          "author": "Zapier",
+          "capabilities": [
+            "board-buttons",
+            "callback",
+            "authorization-status",
+            "show-authorization"
+          ],
+          "capabilitiesOptions": [],
+          "categories": [
+            "automation",
+            "board-utilities"
+          ],
+          "iframeConnectorUrl": "https://zapier.gitlab.io/zapier-trello-powerup/index.html",
+          "name": "Zapier",
+          "privacyUrl": "https://zapier.com/privacy",
+          "public": true,
+          "moderatedState": null,
+          "supportEmail": "contact@zapier.com",
+          "url": "https://zapier.github.io/zapier-trello-powerup/manifest.json",
+          "tags": [],
+          "claimedDomains": [],
+          "icon": {
+            "url": "https://cdn.zappy.app/7a9a6758066ae1df5210d12ddf935278.png"
+          },
+          "listing": {
+            "name": "Zapier",
+            "locale": "en-US",
+            "description": "![Zapier](https://cdn.zappy.app/ae0ec7e7ad64a15464a72e68afb91b51.png)\n\nAutomate repetitive tasks so you can focus on your most important work. [Zapier](https://zapier.com) connects Trello to 1000+ apps, including Google Sheets, Evernote, HubSpot, Facebook and more.\n\nSet up time-saving automations in a few clicks to move info and get things done between all your favorite apps.\n\n\n###How it works:\n![](https://cdn.zappy.app/2f57b6edab48f002594d44642fb2e0eb.png)\n\n###Click the \"Add Power-Up\" button at the top of this page to start using Zapier with Trello!",
+            "overview": "Automate repetitive tasks so you can focus on your most important work. Zapier connects Trello to 1000+ apps."
+          },
+          "isCompliantWithPrivacyStandards": null,
+          "usageBrackets": {
+            "boards": 100000
+          }
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "enablePlugin",
+      "date": "2022-11-02T17:46:04.247Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362ab9a74705b02e801112d",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "63629d8c2c466903512f503f",
+          "name": "Пост время",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T17:40:42.415Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362ab99831aaf002379313b",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "63629d89bc3e3705d7401b3c",
+          "name": "Пост дата",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T17:40:41.284Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362ab90d8fb05008b2301f9",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "Место и время\n==============================\nYouTube: https://youtube.com/@geekmo\n19:00 - 22:00\nСММ\n==============================\nПосты VK\n---------------------------------------------------\n30.10 (вс), 14:00\n01.11 (вт), 19:00\nСобытие Discord\n---------------------------------------------------\n28.10 (пт), 12:00",
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "desc": "СММ\n==============================\nПосты VK\n---------------------------------------------------\n30.10 (вс), 14:00\n01.11 (вт), 19:00\nСобытие Discord\n---------------------------------------------------\n28.10 (пт), 12:00\n\nМесто и время\n==============================\nYouTube: https://youtube.com/@geekmo\n19:00 - 22:00"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:40:32.274Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362ab76f6a5df0622d415a7",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "63629d7f5afa3101ef4e08a9",
+          "name": "Место",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T17:40:06.980Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362ab748d7086010f16f637",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "63629d656d110900358d4fcd",
+          "name": "Время конца",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T17:40:04.214Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362ab4ee939af065f40a821",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "СММ\n==============================\nПосты VK\n---------------------------------------------------\n30.10 (вс), 14:00\n01.11 (вт), 19:00\nСобытие Discord\n---------------------------------------------------\n28.10 (пт), 12:00\n\nМесто и время\n==============================\nYouTube: https://youtube.com/@geekmo\n19:00 - 22:00",
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "desc": "СММ\n==============================\nПосты VK\n---------------------------------------------------\n30.10 (вс), 14:00\n01.11 (вт), 19:00\n\nСобытие Discord\n---------------------------------------------------\n28.10 (пт), 12:00\n\nМесто и время\n==============================\nYouTube: https://youtube.com/@geekmo\n19:00 - 22:00"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:39:26.913Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362ab426995df0045e4e9b2",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "СММ\n==============================\nПосты VK\n---------------------------------------------------\n30.10 (вс), 14:00\n01.11 (вт), 19:00\n\nСобытие Discord\n---------------------------------------------------\n28.10 (пт), 12:00\n\nМесто и время\n==============================\nYouTube: https://youtube.com/@geekmo\n19:00 - 22:00",
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "desc": "Посты VK\n-----------------------------------------------------\n30.10 (вс), 14:00\n01.11 (вт), 19:00\n\nСобытие Discord\n----------------------------------------------------\n28.10 (пт), 12:00"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:39:14.443Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362aaaa654f6b018fcd1fbb",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "checklist": {
+          "id": "6362a6c9c76bdd00c9eb9c35",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "6362a6fd48c65201620c026a",
+          "name": "Ссылка вставлена",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T17:36:42.866Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362aaa88e9a3c017ff291dd",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "checklist": {
+          "id": "6362a6c9c76bdd00c9eb9c35",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "6362a6f209f6d000616ce239",
+          "name": "Рассылка",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T17:36:40.551Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362aaa601218b00ac4d5b70",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "checklist": {
+          "id": "6362a6c9c76bdd00c9eb9c35",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "6362a6ee1026f90082e8e5b6",
+          "name": "Картинка",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T17:36:38.565Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362aaa68d5d53025d03849b",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "checklist": {
+          "id": "6362a6c9c76bdd00c9eb9c35",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "6362a6e8f725a102bdf0e7b1",
+          "name": "Текст",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T17:36:38.001Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362aaa4c52e9201ef9af73a",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "checklist": {
+          "id": "6362a6c9c76bdd00c9eb9c35",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "6362a6e17062e2027908ea8a",
+          "name": "Заготовка поста",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T17:36:36.584Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362aaa3e0da9f0207c316b0",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "checklist": {
+          "id": "6362a6c9c76bdd00c9eb9c35",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "6362a7092a557900c1ffee2a",
+          "name": "В расписании",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T17:36:35.902Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362aa9e9b876a0028eba532",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "Посты VK\n-----------------------------------------------------\n30.10 (вс), 14:00\n01.11 (вт), 19:00\n\nСобытие Discord\n----------------------------------------------------\n28.10 (пт), 12:00",
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "desc": "Посты VK\n===============================\n30.10 (вс), 14:00\n01.11 (вт), 19:00"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:36:30.085Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362aa255450d706920494d7",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "attachment": {
+          "id": "6362aa255450d706920494ce",
+          "name": "VK GEEKMO [01.11]",
+          "url": "https://vk.com/wall-37784625_10768"
+        },
+        "card": {
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "addAttachmentToCard",
+      "date": "2022-11-02T17:34:29.106Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a9ea99a6bd0098e05f65",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "dueComplete": true,
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "dueComplete": false
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:33:30.434Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a9e79f2bdf0249e33f3b",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "due": "2022-11-01T16:00:00.000Z",
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "due": "2022-11-15T16:00:00.000Z"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:33:27.066Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a9df98694605801f7173",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "name": "Стрим: WC3 Reforged [01.11]",
+          "id": "63629ee87f6da90591019798",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "name": "Стрим: WC3 Reforged [09.11]"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:33:19.918Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a9dae8ec270456704a9a",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "Посты VK\n===============================\n30.10 (вс), 14:00\n01.11 (вт), 19:00",
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [09.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "desc": "\n==============================="
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:33:14.522Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a934ad94f5043999e2ab",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "due": "2022-11-15T16:00:00.000Z",
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [09.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "due": "2022-11-06T11:00:00.000Z"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:30:28.817Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a9230bcdf3062e1c0280",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "Ответственные - участники\nСобытие - название карточки\nДата и время начала - Даты карточки\nПост ссылка - вложения карточки\nКоличество участников - комментарий",
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "old": {
+          "desc": "Ответственные - участники\nСобытие - название карточки\nДата - Даты карточки\nПост ссылка - вложения карточки\nКоличество участников - комментарий"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:30:11.341Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a91b0394ba01a3fc8d95",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "Ответственные - участники\nСобытие - название карточки\nДата - Даты карточки\nПост ссылка - вложения карточки\nКоличество участников - комментарий",
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "old": {
+          "desc": "Ответственные - участники\nСобытие - название карточки\nДата - название карточки\nПост ссылка - вложения карточки\nКоличество участников - комментарий"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:30:03.094Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a91b9c7bfa0098919358",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "63629d619610ec020e3f6946",
+          "name": "Время начала",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T17:30:03.049Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a899b157e60c10d5a402",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "text": "16",
+        "textData": {
+          "emoji": {}
+        },
+        "card": {
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: WC3 Reforged [09.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "commentCard",
+      "date": "2022-11-02T17:27:53.380Z",
+      "limits": {
+        "reactions": {
+          "perAction": {
+            "status": "ok",
+            "disableAt": 900,
+            "warnAt": 720
+          },
+          "uniquePerAction": {
+            "status": "ok",
+            "disableAt": 17,
+            "warnAt": 14
+          }
+        }
+      },
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a7d5ef7f010189333549",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "Ответственные - участники\nСобытие - название карточки\nДата - название карточки\nПост ссылка - вложения карточки\nКоличество участников - комментарий",
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "old": {
+          "desc": "Ответственные - участники\nСобытие - название карточки\nДата - название карточки\nПост ссылка - вложения карточки"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:24:37.220Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a7c76820f0009fb2184a",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "63629d9b9693c10237201c7e",
+          "name": "Количество участников",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T17:24:23.216Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a7be4d616f0015c02a3d",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "Ответственные - участники\nСобытие - название карточки\nДата - название карточки\nПост ссылка - вложения карточки",
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "old": {
+          "desc": "Ответственные - участники\nСобытие - название карточки\nДата - название карточки\nДата и время поста - даты (вопрос, что делать, если постов несколько)"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:24:14.275Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a7a84dc7fa01aa6fd411",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "63629d96d3118c05dbec1bc2",
+          "name": "Пост ссылка",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T17:23:52.515Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a77e12fe54011d9f7bd3",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "name": "Стрим: WC3 Reforged [09.11]",
+          "id": "63629ee87f6da90591019798",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "name": "Стрим: Компьютерная игра [09.11]"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:23:10.049Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a764b0b9460207c98872",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "attachment": {
+          "id": "6362a764b0b9460207c98869",
+          "name": "https://vk.com/wall-37784625_10747",
+          "url": "https://vk.com/wall-37784625_10747"
+        },
+        "card": {
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: Компьютерная игра [09.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "addAttachmentToCard",
+      "date": "2022-11-02T17:22:44.171Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a6c9c76bdd00c9eb9c3d",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: Компьютерная игра [09.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "checklist": {
+          "id": "6362a6c9c76bdd00c9eb9c35",
+          "name": "Чек-лист"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "addChecklistToCard",
+      "date": "2022-11-02T17:20:09.149Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a6b38f63d001550d581f",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "idLabels": [
+            "63629cd11c38c7538d55e7a2"
+          ],
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: Компьютерная игра [09.11]",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "idLabels": []
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T17:19:47.301Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a67ab9864300ca837725",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "plugin": {
+          "id": "620422ba06122a0cfc5cd3dd",
+          "idOrganizationOwner": "59fb30baa0e270f883ddd8f6",
+          "author": "Unito.io",
+          "capabilities": [
+            "board-buttons",
+            "on-disable",
+            "on-enable"
+          ],
+          "capabilitiesOptions": [],
+          "categories": [
+            "developer-tools",
+            "automation"
+          ],
+          "iframeConnectorUrl": "https://trello-powerup.unito.io/project-sync?provider=googlecalendar",
+          "name": "Google Calendar + Trello Two-Way Sync",
+          "privacyUrl": "https://unito.io/privacy/?utm_source=trello&utm_medium=marketplace&utm_campaign=trello_googlecalendar",
+          "public": true,
+          "moderatedState": null,
+          "supportEmail": "support@unito.io",
+          "tags": [],
+          "heroImageUrl": {
+            "_id": "62a7dd8878e7500018aeb0ef",
+            "@1x": "https://plugin.trello.services/images/unito-google-calendar@1x.png",
+            "@2x": "https://plugin.trello.services/images/unito-google-calendar@2x.png"
+          },
+          "claimedDomains": [],
+          "icon": {
+            "url": "https://unito.io/wp-content/uploads/2020/01/Unito-avatar-white-symbol.svg"
+          },
+          "listing": {
+            "name": "Google Calendar + Trello Two-Way Sync",
+            "locale": "en-US",
+            "description": "Unito allows you to connect Trello with Google Calendar in a 2-way sync to coordinate and plan timelines with team members by turning Trello cards into calendar events and vice versa.\n\n“Unito is one of the best ways to sync data between Trello and any other tool. You keep using Trello — everyone else can use their thing.”\n— Michael Pryor, co-founder, Trello\n\n\n![Trello - Google Calendar Integration](https://unito.io/wp-content/uploads/2022/03/TrelloGCal.mp4.gif)\n\n##Connect Trello to Google Calendar and keep teams looped on every project timeline\n\n###This Power-Up is designed to help Trello users to:\n- manage tasks for events or conferences; \n- operate a team roadmap or timeline; \n- share key business milestones;\n- coordinate projects; \n- loop in other teams on deadlines with high visibility. \n\nUpdates in one app are automatically reflected in the other based on deep, customizable rules determined by you. Unito workflows are quick, easy, and intuitive to build with our no-code interface so you can get up and running in minutes.\n\n---\n##Start a free 14-day trial now\nUnito is free to try for 14 days, no credit card required. After that, you'll need to subscribe to one of our [paid plans](https://unito.io/pricing/?utm_source=trello&utm_medium=marketplace&utm_campaign=google_calendar).\n\n\n## Features\n\n### Unito supports essential Trello fields including: \n\n- Card names \n- Due dates and times \n- Assignees\n- Card status and descriptions \n- Comments\n- Labels\n- List names\n- Board names\n- Attachments\n- Checklists\n\n\n### Share data in real-time\n\nAutomate the flow of information to and from Trello live. Changes in Google Calendar are immediately sent to your board and vice versa, based on the rules you choose.\n\n\n### Experience a no-code, self-serve solution\n\nUnito requires no coding knowledge whatsoever. Anyone on your team can integrate Trello with Google Calendar and start building the workflow they need in a few clicks through an intuitive point-and-click interface.\n\n\n### Step-by-step walkthrough\n\nShare milestones, launch dates, events and more between Trello and Google Calendar with Unito's automated 2-way sync. Here's a detailed guide on [how to sync Trello with Google Calendar to align Dates and Milestones](https://unito.io/blog/guide-how-to-trello-google-calendar/?utm_source=trello&utm_medium=marketplace&utm_campaign=trello_googlecalendar).\n\n## What Unito customers are saying\n\n“Unito saves us time we can use to pay attention to what really matters; solving our customers’ e-commerce challenges.” - Mark Lewis, CTO / Founder - Netalico Commerce\n\n“Even if Unito just saves me two minutes per board, we’re opening and closing multiple transactions per day, it probably saves me 30 minutes per day. That adds up.” - Megan Baptista, Founder My TC Concierge \n\n“I have now ditched the bullet journal and moved fully online with the help of Unito. I can complete tasks on checklists, add comments, change due dates etc. without having to leave my main Trello board.” - Jessica Lorraine, Founder, Lorraine Virtual\n\n---\n\nLearn more about Unito's [Trello - Google Calendar integration](https://unito.io/connectors/trello/?utm_source=trello&utm_medium=marketplace&utm_campaign=trello_googlecalendar).\n\n![](https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJiQWpkVTg1ZnBIRDFyd2FEa1liZE1VTkZiaHgxelc4SSIsCiAgImFub255bW91c0lkIjogImFub255bW91c0lkIiwKICAiZXZlbnQiOiAiVmlzaXQgUG93ZXIgVXAiLAogICJwcm9wZXJ0aWVzIjogewogICAgInBvd2VyVXBOYW1lIjogIlN5bmMgd2l0aCBHb29nbGUgQ2FsZW5kYXIiLAogICAgInVwZGF0ZWRBdCI6ICIyMDIyLTAyLTE0IgogIH0KfQ==)",
+            "overview": "Sync cards, events, boards, calendars and more with this Trello and Google Calendar integration."
+          },
+          "isCompliantWithPrivacyStandards": true,
+          "usageBrackets": {
+            "boards": 25000
+          }
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "disablePlugin",
+      "date": "2022-11-02T17:18:50.741Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a66c9a4391016cd49961",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "plugin": {
+          "id": "6140cb068b743d7e6e59d6d0",
+          "idOrganizationOwner": "59fb30baa0e270f883ddd8f6",
+          "author": "Unito.io",
+          "capabilities": [
+            "board-buttons",
+            "on-enable",
+            "on-disable"
+          ],
+          "capabilitiesOptions": [],
+          "categories": [
+            "analytics-reporting",
+            "automation"
+          ],
+          "iframeConnectorUrl": "https://trello-powerup.unito.io/project-sync?provider=googlesheets",
+          "name": "Google Sheets + Trello 2-Way Sync",
+          "privacyUrl": "https://unito.io/privacy/?utm_source=trello&utm_medium=marketplace&utm_campaign=trello_googlesheets",
+          "public": true,
+          "moderatedState": null,
+          "supportEmail": "support@unito.io",
+          "tags": [
+            "staff-pick"
+          ],
+          "claimedDomains": [],
+          "icon": {
+            "url": "https://unito.io/wp-content/uploads/2020/01/Unito-avatar-white-symbol.svg"
+          },
+          "listing": {
+            "name": "Google Sheets + Trello 2-Way Sync",
+            "locale": "en-US",
+            "description": "\n\n# Google Sheets + Trello 2-Way Sync\nSync Trello cards with Google Sheets rows using this powerful integration.\n\n---\n### Sync information from Trello into spreadsheets and get real-time insights on project performance in Google Sheets\nWith Unito, sync Trello cards to rows in Google Sheets and keep everything updated automatically. Build powerful reports in Google Sheets to get insights on progress in Trello with no manual work.\n\nUnito also supports 2-way workflows, which means changes made in Google Sheets are synced back to your Trello cards. You can also use Unito to automatically create new Trello cards when a new row is created in Google Sheets. Unito helps keep everything in perfect sync across any workflow that needs Google Sheets and Trello..\n\n![Trello - Google Sheets Integration](https://unito.io/wp-content/uploads/2021/09/TrelloSheets.mp4.gif)\n### Features\n#### Supports essential Trello fields\nUnito has some of the deepest two-way integrations for Trello.. Sync card names, due dates, assignees, card status, card descriptions, comments, labels, list names, board names, attachments, checklists, and more. You can manually map these fields with any Google Sheets column and keep your data in sync.\n#### Customize in real-time\nUnito integrations allow data to flow across tools in real-time. Customize your flow to your exact needs and set powerful filters to define what you need synced. Make changes to your flow and they’ll be reflected in your tools in real-time.\n#### No-code and self-serve\nUnito requires no coding knowledge. Any team can integrate Trello with Google Sheets and build the workflow they need in a few clicks.\n\n#### Some help to get started\nFollow our detailed step-by-step guide to [learn how to connect your Trello board with a Google spreadsheet](https://unito.io/blog/guide-how-to-connect-trello-with-google-sheets/?utm_source=trello&utm_medium=marketplace&utm_campaign=trello_googlesheets), or watch our pre-recorded [demo video](https://vimeo.com/653097605).\n\n---\n\n![Michael Pryor tweet Unito](https://unito.io/wp-content/uploads/2020/04/Trello-Tweet.png)\n\n**— Michael Pryor, Co-founder and Head of Product at Trello**\n\n---\n### Get started for free now!\nInstall the Power-Up and you’ll be taken through the setup process. Alternatively, you can also head directly to Unito to set up your account and get started!\n\nLearn more about Unito's [Trello - Google Sheets integration](https://unito.io/integrations/google-sheets-trello/?utm_source=trello&utm_medium=marketplace&utm_campaign=trello_googlesheets).\n\n![](https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJiQWpkVTg1ZnBIRDFyd2FEa1liZE1VTkZiaHgxelc4SSIsCiAgImFub255bW91c0lkIjogImFub255bW91c0lkIiwKICAiZXZlbnQiOiAiVmlzaXQgUG93ZXIgVXAiLAogICJwcm9wZXJ0aWVzIjogewogICAgInBvd2VyVXBOYW1lIjogIlN5bmMgd2l0aCBHb29nbGUgU2hlZXRzIiwKICAgICJ1cGRhdGVkQXQiOiAiMjAyMS0xMC0xOSIKICB9Cn0=)",
+            "overview": "Sync Trello cards and Google Sheets rows with this powerful integration."
+          },
+          "isCompliantWithPrivacyStandards": true,
+          "usageBrackets": {
+            "boards": 5000
+          }
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "disablePlugin",
+      "date": "2022-11-02T17:18:36.293Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a6613eab3b01b9ceb8f5",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "prefs": {
+            "hiddenPluginBoardButtons": [
+              "620422ba06122a0cfc5cd3dd"
+            ]
+          },
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "old": {
+          "prefs": {
+            "hiddenPluginBoardButtons": [
+              "55a5d916446f517774210006",
+              "6140cb068b743d7e6e59d6d0",
+              "620422ba06122a0cfc5cd3dd"
+            ]
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateBoard",
+      "date": "2022-11-02T17:18:25.152Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a65f699b0c051d0d926f",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "prefs": {
+            "hiddenPluginBoardButtons": [
+              "6140cb068b743d7e6e59d6d0"
+            ]
+          },
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "old": {
+          "prefs": {
+            "hiddenPluginBoardButtons": [
+              "55a5d916446f517774210006",
+              "6140cb068b743d7e6e59d6d0"
+            ]
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateBoard",
+      "date": "2022-11-02T17:18:23.708Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a205186a0d0163ed38a5",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "plugin": {
+          "id": "620422ba06122a0cfc5cd3dd",
+          "idOrganizationOwner": "59fb30baa0e270f883ddd8f6",
+          "author": "Unito.io",
+          "capabilities": [
+            "board-buttons",
+            "on-disable",
+            "on-enable"
+          ],
+          "capabilitiesOptions": [],
+          "categories": [
+            "developer-tools",
+            "automation"
+          ],
+          "iframeConnectorUrl": "https://trello-powerup.unito.io/project-sync?provider=googlecalendar",
+          "name": "Google Calendar + Trello Two-Way Sync",
+          "privacyUrl": "https://unito.io/privacy/?utm_source=trello&utm_medium=marketplace&utm_campaign=trello_googlecalendar",
+          "public": true,
+          "moderatedState": null,
+          "supportEmail": "support@unito.io",
+          "tags": [],
+          "heroImageUrl": {
+            "_id": "62a7dd8878e7500018aeb0ef",
+            "@1x": "https://plugin.trello.services/images/unito-google-calendar@1x.png",
+            "@2x": "https://plugin.trello.services/images/unito-google-calendar@2x.png"
+          },
+          "claimedDomains": [],
+          "icon": {
+            "url": "https://unito.io/wp-content/uploads/2020/01/Unito-avatar-white-symbol.svg"
+          },
+          "listing": {
+            "name": "Google Calendar + Trello Two-Way Sync",
+            "locale": "en-US",
+            "description": "Unito allows you to connect Trello with Google Calendar in a 2-way sync to coordinate and plan timelines with team members by turning Trello cards into calendar events and vice versa.\n\n“Unito is one of the best ways to sync data between Trello and any other tool. You keep using Trello — everyone else can use their thing.”\n— Michael Pryor, co-founder, Trello\n\n\n![Trello - Google Calendar Integration](https://unito.io/wp-content/uploads/2022/03/TrelloGCal.mp4.gif)\n\n##Connect Trello to Google Calendar and keep teams looped on every project timeline\n\n###This Power-Up is designed to help Trello users to:\n- manage tasks for events or conferences; \n- operate a team roadmap or timeline; \n- share key business milestones;\n- coordinate projects; \n- loop in other teams on deadlines with high visibility. \n\nUpdates in one app are automatically reflected in the other based on deep, customizable rules determined by you. Unito workflows are quick, easy, and intuitive to build with our no-code interface so you can get up and running in minutes.\n\n---\n##Start a free 14-day trial now\nUnito is free to try for 14 days, no credit card required. After that, you'll need to subscribe to one of our [paid plans](https://unito.io/pricing/?utm_source=trello&utm_medium=marketplace&utm_campaign=google_calendar).\n\n\n## Features\n\n### Unito supports essential Trello fields including: \n\n- Card names \n- Due dates and times \n- Assignees\n- Card status and descriptions \n- Comments\n- Labels\n- List names\n- Board names\n- Attachments\n- Checklists\n\n\n### Share data in real-time\n\nAutomate the flow of information to and from Trello live. Changes in Google Calendar are immediately sent to your board and vice versa, based on the rules you choose.\n\n\n### Experience a no-code, self-serve solution\n\nUnito requires no coding knowledge whatsoever. Anyone on your team can integrate Trello with Google Calendar and start building the workflow they need in a few clicks through an intuitive point-and-click interface.\n\n\n### Step-by-step walkthrough\n\nShare milestones, launch dates, events and more between Trello and Google Calendar with Unito's automated 2-way sync. Here's a detailed guide on [how to sync Trello with Google Calendar to align Dates and Milestones](https://unito.io/blog/guide-how-to-trello-google-calendar/?utm_source=trello&utm_medium=marketplace&utm_campaign=trello_googlecalendar).\n\n## What Unito customers are saying\n\n“Unito saves us time we can use to pay attention to what really matters; solving our customers’ e-commerce challenges.” - Mark Lewis, CTO / Founder - Netalico Commerce\n\n“Even if Unito just saves me two minutes per board, we’re opening and closing multiple transactions per day, it probably saves me 30 minutes per day. That adds up.” - Megan Baptista, Founder My TC Concierge \n\n“I have now ditched the bullet journal and moved fully online with the help of Unito. I can complete tasks on checklists, add comments, change due dates etc. without having to leave my main Trello board.” - Jessica Lorraine, Founder, Lorraine Virtual\n\n---\n\nLearn more about Unito's [Trello - Google Calendar integration](https://unito.io/connectors/trello/?utm_source=trello&utm_medium=marketplace&utm_campaign=trello_googlecalendar).\n\n![](https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJiQWpkVTg1ZnBIRDFyd2FEa1liZE1VTkZiaHgxelc4SSIsCiAgImFub255bW91c0lkIjogImFub255bW91c0lkIiwKICAiZXZlbnQiOiAiVmlzaXQgUG93ZXIgVXAiLAogICJwcm9wZXJ0aWVzIjogewogICAgInBvd2VyVXBOYW1lIjogIlN5bmMgd2l0aCBHb29nbGUgQ2FsZW5kYXIiLAogICAgInVwZGF0ZWRBdCI6ICIyMDIyLTAyLTE0IgogIH0KfQ==)",
+            "overview": "Sync cards, events, boards, calendars and more with this Trello and Google Calendar integration."
+          },
+          "isCompliantWithPrivacyStandards": true,
+          "usageBrackets": {
+            "boards": 25000
+          }
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "enablePlugin",
+      "date": "2022-11-02T16:59:49.219Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a1f214a0810089323a92",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "plugin": {
+          "id": "6140cb068b743d7e6e59d6d0",
+          "idOrganizationOwner": "59fb30baa0e270f883ddd8f6",
+          "author": "Unito.io",
+          "capabilities": [
+            "board-buttons",
+            "on-enable",
+            "on-disable"
+          ],
+          "capabilitiesOptions": [],
+          "categories": [
+            "analytics-reporting",
+            "automation"
+          ],
+          "iframeConnectorUrl": "https://trello-powerup.unito.io/project-sync?provider=googlesheets",
+          "name": "Google Sheets + Trello 2-Way Sync",
+          "privacyUrl": "https://unito.io/privacy/?utm_source=trello&utm_medium=marketplace&utm_campaign=trello_googlesheets",
+          "public": true,
+          "moderatedState": null,
+          "supportEmail": "support@unito.io",
+          "tags": [
+            "staff-pick"
+          ],
+          "claimedDomains": [],
+          "icon": {
+            "url": "https://unito.io/wp-content/uploads/2020/01/Unito-avatar-white-symbol.svg"
+          },
+          "listing": {
+            "name": "Google Sheets + Trello 2-Way Sync",
+            "locale": "en-US",
+            "description": "\n\n# Google Sheets + Trello 2-Way Sync\nSync Trello cards with Google Sheets rows using this powerful integration.\n\n---\n### Sync information from Trello into spreadsheets and get real-time insights on project performance in Google Sheets\nWith Unito, sync Trello cards to rows in Google Sheets and keep everything updated automatically. Build powerful reports in Google Sheets to get insights on progress in Trello with no manual work.\n\nUnito also supports 2-way workflows, which means changes made in Google Sheets are synced back to your Trello cards. You can also use Unito to automatically create new Trello cards when a new row is created in Google Sheets. Unito helps keep everything in perfect sync across any workflow that needs Google Sheets and Trello..\n\n![Trello - Google Sheets Integration](https://unito.io/wp-content/uploads/2021/09/TrelloSheets.mp4.gif)\n### Features\n#### Supports essential Trello fields\nUnito has some of the deepest two-way integrations for Trello.. Sync card names, due dates, assignees, card status, card descriptions, comments, labels, list names, board names, attachments, checklists, and more. You can manually map these fields with any Google Sheets column and keep your data in sync.\n#### Customize in real-time\nUnito integrations allow data to flow across tools in real-time. Customize your flow to your exact needs and set powerful filters to define what you need synced. Make changes to your flow and they’ll be reflected in your tools in real-time.\n#### No-code and self-serve\nUnito requires no coding knowledge. Any team can integrate Trello with Google Sheets and build the workflow they need in a few clicks.\n\n#### Some help to get started\nFollow our detailed step-by-step guide to [learn how to connect your Trello board with a Google spreadsheet](https://unito.io/blog/guide-how-to-connect-trello-with-google-sheets/?utm_source=trello&utm_medium=marketplace&utm_campaign=trello_googlesheets), or watch our pre-recorded [demo video](https://vimeo.com/653097605).\n\n---\n\n![Michael Pryor tweet Unito](https://unito.io/wp-content/uploads/2020/04/Trello-Tweet.png)\n\n**— Michael Pryor, Co-founder and Head of Product at Trello**\n\n---\n### Get started for free now!\nInstall the Power-Up and you’ll be taken through the setup process. Alternatively, you can also head directly to Unito to set up your account and get started!\n\nLearn more about Unito's [Trello - Google Sheets integration](https://unito.io/integrations/google-sheets-trello/?utm_source=trello&utm_medium=marketplace&utm_campaign=trello_googlesheets).\n\n![](https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJiQWpkVTg1ZnBIRDFyd2FEa1liZE1VTkZiaHgxelc4SSIsCiAgImFub255bW91c0lkIjogImFub255bW91c0lkIiwKICAiZXZlbnQiOiAiVmlzaXQgUG93ZXIgVXAiLAogICJwcm9wZXJ0aWVzIjogewogICAgInBvd2VyVXBOYW1lIjogIlN5bmMgd2l0aCBHb29nbGUgU2hlZXRzIiwKICAgICJ1cGRhdGVkQXQiOiAiMjAyMS0xMC0xOSIKICB9Cn0=)",
+            "overview": "Sync Trello cards and Google Sheets rows with this powerful integration."
+          },
+          "isCompliantWithPrivacyStandards": true,
+          "usageBrackets": {
+            "boards": 5000
+          }
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "enablePlugin",
+      "date": "2022-11-02T16:59:30.338Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a1da95f68101c3f67b37",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "plugin": {
+          "id": "55a5d916446f517774210006",
+          "idOrganizationOwner": "5a999cd36066c584c097f193",
+          "author": "Trello Inc",
+          "capabilities": [
+            "attachment-sections",
+            "board-buttons",
+            "callback",
+            "card-buttons",
+            "show-settings",
+            "remove-data",
+            "format-url",
+            "attachment-thumbnail"
+          ],
+          "capabilitiesOptions": [],
+          "categories": [
+            "communication-collaboration",
+            "file-management"
+          ],
+          "iframeConnectorUrl": "https://google-drive.trello.services/index.html?ver=76089c88c95b",
+          "name": "Google Диск",
+          "privacyUrl": "https://trello.com/privacy",
+          "public": true,
+          "moderatedState": null,
+          "supportEmail": "https://trello.com/contact#/",
+          "url": "https://google-drive.trello.services/manifest.json",
+          "tags": [
+            "essential",
+            "made-by-trello"
+          ],
+          "heroImageUrl": {
+            "_id": "5b562ad833bb25157586d348",
+            "@2x": "https://plugin.trello.services/images/google-drive@2x.jpg",
+            "@1x": "https://plugin.trello.services/images/google-drive.jpg"
+          },
+          "claimedDomains": [
+            "drive.google.com",
+            "docs.google.com"
+          ],
+          "icon": {
+            "url": "https://google-drive.trello.services/images/drive.png"
+          },
+          "listing": {
+            "name": "Google Диск",
+            "locale": "ru",
+            "description": "Благодаря улучшению «Google Диск» вы можете добавлять свои файлы и папки на карточки Trello. Выполняйте поиск, просматривайте уменьшенные версии файлов и переходите в Диск из Trello всего за один клик. А еще вы можете мгновенно превратить свою доску в презентацию Google.\n\n— Используйте встроенный поиск, чтобы добавлять файлы и папки из Google Диска на карточки во всех версиях Trello.\n— Открывайте уменьшенные версии прикрепленных файлов и папок и просматривайте сведения о них.\n— Превращайте доску Trello в презентацию Google всего за один клик.\n\n![скриншот](https://google-drive.trello.services/images/screenshots/Google_Drive_1.jpg)\n![скриншот](https://google-drive.trello.services/images/screenshots/Google_Drive_2.jpg)\n![скриншот](https://google-drive.trello.services/images/screenshots/Google_Drive_3.jpg)\n![скриншот](https://google-drive.trello.services/images/screenshots/Google_Drive_4.jpg)",
+            "overview": "Получайте доступ к файлам проекта на Диске, создавайте и автоматически прикрепляйте новые файлы прямо с карточки Trello."
+          },
+          "isCompliantWithPrivacyStandards": null,
+          "usageBrackets": {
+            "boards": 2000000
+          }
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "disablePlugin",
+      "date": "2022-11-02T16:59:06.581Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a1b5ffb311015e859285",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "prefs": {
+            "hiddenPluginBoardButtons": [
+              "55a5d916446f517774210006"
+            ]
+          },
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "old": {
+          "prefs": {
+            "hiddenPluginBoardButtons": [
+              "55a5d916446f517774210006"
+            ]
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateBoard",
+      "date": "2022-11-02T16:58:29.963Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a1630cd3b601ff0bfac1",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "plugin": {
+          "id": "55a5d916446f517774210006",
+          "idOrganizationOwner": "5a999cd36066c584c097f193",
+          "author": "Trello Inc",
+          "capabilities": [
+            "attachment-sections",
+            "board-buttons",
+            "callback",
+            "card-buttons",
+            "show-settings",
+            "remove-data",
+            "format-url",
+            "attachment-thumbnail"
+          ],
+          "capabilitiesOptions": [],
+          "categories": [
+            "communication-collaboration",
+            "file-management"
+          ],
+          "iframeConnectorUrl": "https://google-drive.trello.services/index.html?ver=76089c88c95b",
+          "name": "Google Диск",
+          "privacyUrl": "https://trello.com/privacy",
+          "public": true,
+          "moderatedState": null,
+          "supportEmail": "https://trello.com/contact#/",
+          "url": "https://google-drive.trello.services/manifest.json",
+          "tags": [
+            "essential",
+            "made-by-trello"
+          ],
+          "heroImageUrl": {
+            "_id": "5b562ad833bb25157586d348",
+            "@2x": "https://plugin.trello.services/images/google-drive@2x.jpg",
+            "@1x": "https://plugin.trello.services/images/google-drive.jpg"
+          },
+          "claimedDomains": [
+            "drive.google.com",
+            "docs.google.com"
+          ],
+          "icon": {
+            "url": "https://google-drive.trello.services/images/drive.png"
+          },
+          "listing": {
+            "name": "Google Диск",
+            "locale": "ru",
+            "description": "Благодаря улучшению «Google Диск» вы можете добавлять свои файлы и папки на карточки Trello. Выполняйте поиск, просматривайте уменьшенные версии файлов и переходите в Диск из Trello всего за один клик. А еще вы можете мгновенно превратить свою доску в презентацию Google.\n\n— Используйте встроенный поиск, чтобы добавлять файлы и папки из Google Диска на карточки во всех версиях Trello.\n— Открывайте уменьшенные версии прикрепленных файлов и папок и просматривайте сведения о них.\n— Превращайте доску Trello в презентацию Google всего за один клик.\n\n![скриншот](https://google-drive.trello.services/images/screenshots/Google_Drive_1.jpg)\n![скриншот](https://google-drive.trello.services/images/screenshots/Google_Drive_2.jpg)\n![скриншот](https://google-drive.trello.services/images/screenshots/Google_Drive_3.jpg)\n![скриншот](https://google-drive.trello.services/images/screenshots/Google_Drive_4.jpg)",
+            "overview": "Получайте доступ к файлам проекта на Диске, создавайте и автоматически прикрепляйте новые файлы прямо с карточки Trello."
+          },
+          "isCompliantWithPrivacyStandards": null,
+          "usageBrackets": {
+            "boards": 2000000
+          }
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "enablePlugin",
+      "date": "2022-11-02T16:57:07.676Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a051a7d8dd003faf6fba",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "due": "2022-11-06T11:00:00.000Z",
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "old": {
+          "due": "2022-11-08T16:00:00.000Z"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T16:52:33.163Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a051a7d8dd003faf6fa1",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "start": null,
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "old": {
+          "start": "2022-11-08T05:00:00.000Z"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T16:52:33.060Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a03d514acf0ebdb71a5f",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "due": "2022-11-08T16:00:00.000Z",
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "old": {
+          "due": null
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T16:52:13.040Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a03c514acf0ebdb71a50",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "dueReminder": 1440,
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "old": {
+          "dueReminder": null
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T16:52:12.971Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a03c514acf0ebdb71a44",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "start": "2022-11-08T05:00:00.000Z",
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "old": {
+          "start": null
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T16:52:12.933Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a0297d10b701934b454a",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "63629d8c2c466903512f503f",
+          "name": "Пост время",
+          "state": "incomplete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T16:51:53.660Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a02877271d001618d186",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "63629d89bc3e3705d7401b3c",
+          "name": "Пост дата",
+          "state": "incomplete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T16:51:52.677Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "6362a00a3613ba00ca1981e8",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "Ответственные - участники\nСобытие - название карточки\nДата - название карточки\nДата и время поста - даты (вопрос, что делать, если постов несколько)",
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "old": {
+          "desc": "Ответственные - участники\nСобытие - название карточки\nДата - название карточки\n"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T16:51:22.737Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629fe56a5f4a02519fba3e",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "63629d8c2c466903512f503f",
+          "name": "Пост время",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T16:50:45.581Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629fe41bf721009a830ff9",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "63629d89bc3e3705d7401b3c",
+          "name": "Пост дата",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T16:50:44.848Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629fd8799d09019bb36e39",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "name": "Стрим: Компьютерная игра [09.11]",
+          "id": "63629ee87f6da90591019798",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "name": "Стрим: Компьютерная игра"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T16:50:32.678Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629fc8a70b3e019a30ce91",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "Ответственные - участники\nСобытие - название карточки\nДата - название карточки\n",
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "old": {
+          "desc": "Ответственные - участники\nСобытие - название карточки\n"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T16:50:16.948Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629fadb84c38066dd429d1",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "Ответственные - участники\nСобытие - название карточки\n",
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "old": {
+          "desc": "Ответственные - участники\n"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T16:49:49.069Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629fadae515c0c4f2d84db",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "63629d5df3acce010a9fc6e7",
+          "name": "Дата",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T16:49:49.043Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629f99035b5f04433e047e",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "Ответственные - участники\n",
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T16:49:29.157Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629f9949855902116820c6",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "63629d8238a3a20637a96dde",
+          "name": "Событие",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T16:49:29.138Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629f7657341501c0b5aa62",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "idMember": "5ec17deb789acf1add806c21",
+        "card": {
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: Компьютерная игра",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "member": {
+          "id": "5ec17deb789acf1add806c21",
+          "name": "Emma Lain (Аня)"
+        }
+      },
+      "appCreator": null,
+      "type": "addMemberToCard",
+      "date": "2022-11-02T16:48:54.957Z",
+      "limits": null,
+      "member": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      },
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629f700529c70147373a43",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "checkItem": {
+          "id": "63629d7787887201b6f7be50",
+          "name": "Ответственный (Кто будет)",
+          "state": "complete",
+          "textData": {
+            "emoji": {}
+          }
+        }
+      },
+      "appCreator": null,
+      "type": "updateCheckItemStateOnCard",
+      "date": "2022-11-02T16:48:48.046Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629f6201833300e4bbe795",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "desc": "\n===============================",
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: Компьютерная игра",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T16:48:34.969Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629f2750ce0201e2e956fb",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "due": "2022-11-06T11:00:00.000Z",
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: Компьютерная игра",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "due": null
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T16:47:35.128Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629f2750ce0201e2e956ee",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "dueReminder": 1440,
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: Компьютерная игра",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "old": {
+          "dueReminder": null
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2022-11-02T16:47:35.097Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629ee87f6da905910197a0",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "id": "63629ee87f6da90591019798",
+          "name": "Стрим: Компьютерная игра",
+          "idShort": 3,
+          "shortLink": "wSIa56rR"
+        },
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2022-11-02T16:46:32.977Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629ec95f82c200eced77a8",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "list": {
+          "id": "63629ec95f82c200eced77a4",
+          "name": "Воскресенье"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2022-11-02T16:46:01.170Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629ec3856404004a437705",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "list": {
+          "id": "63629ec3856404004a437701",
+          "name": "Суббота"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2022-11-02T16:45:55.408Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629ec0c2ad8c02308af59b",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "list": {
+          "id": "63629ec0c2ad8c02308af597",
+          "name": "Пятница"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2022-11-02T16:45:52.597Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629ebb23b48f046099c047",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "list": {
+          "name": "Четверг",
+          "id": "63629eb3597fb2018fd1865f"
+        },
+        "old": {
+          "name": "четверг"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "updateList",
+      "date": "2022-11-02T16:45:47.943Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629eb3597fb2018fd18663",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "list": {
+          "id": "63629eb3597fb2018fd1865f",
+          "name": "четверг"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2022-11-02T16:45:39.366Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629eafefd48503dc6fb2ba",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "list": {
+          "id": "63629eafefd48503dc6fb2b6",
+          "name": "Среда"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2022-11-02T16:45:35.571Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629ead17f4f501a2172b59",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "list": {
+          "id": "63629ead17f4f501a2172b54",
+          "name": "Вторник"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2022-11-02T16:45:33.184Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629ea7bdd9010154bcbc93",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "list": {
+          "id": "63629ea7bdd9010154bcbc8a",
+          "name": "Понедельник"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2022-11-02T16:45:27.757Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629de431d141018d080075",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "id": "63629dde07598e0058c5b441",
+          "name": "Что надо отследить",
+          "idShort": 2,
+          "shortLink": "SyWDUIWY"
+        },
+        "checklist": {
+          "id": "63629de431d141018d08006d",
+          "name": "Чек-лист"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "addChecklistToCard",
+      "date": "2022-11-02T16:42:12.408Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629dde07598e0058c5b449",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "id": "63629dde07598e0058c5b441",
+          "name": "Что надо отследить",
+          "idShort": 2,
+          "shortLink": "SyWDUIWY"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2022-11-02T16:42:06.184Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629d4edadc5b011d484092",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "checklist": {
+          "id": "63629d4edadc5b011d48408a",
+          "name": "Чек-лист"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "addChecklistToCard",
+      "date": "2022-11-02T16:39:42.699Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629d4ac08b1d00f42bef4d",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "card": {
+          "id": "63629d4ac08b1d00f42bef45",
+          "name": "Что надо указать, чтобы не было беды с таблицей",
+          "idShort": 1,
+          "shortLink": "3EdBGPw8"
+        },
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2022-11-02T16:39:38.295Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629cfd505ccc0043b332c6",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "list": {
+          "id": "63629cfd505ccc0043b332c0",
+          "name": "Пример карточки поста"
+        },
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2022-11-02T16:38:21.346Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629cd1678d5901ebd2a349",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        },
+        "organization": {
+          "id": "60de53ef049b7e754f2d25de",
+          "name": "Emma Lain (Аня): рабочее пространство"
+        }
+      },
+      "appCreator": null,
+      "type": "addToOrganizationBoard",
+      "date": "2022-11-02T16:37:37.950Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    },
+    {
+      "id": "63629cd1678d5901ebd2a346",
+      "idMemberCreator": "5ec17deb789acf1add806c21",
+      "data": {
+        "board": {
+          "id": "63629cd1678d5901ebd2a324",
+          "name": "Тестим для гикмы",
+          "shortLink": "NPKNRJxA"
+        }
+      },
+      "appCreator": null,
+      "type": "createBoard",
+      "date": "2022-11-02T16:37:37.945Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5ec17deb789acf1add806c21",
+        "activityBlocked": false,
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "fullName": "Emma Lain (Аня)",
+        "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+        "initials": "E(",
+        "nonPublic": {
+          "fullName": "Emma Lain (Аня)",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+          "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+        },
+        "nonPublicAvailable": true,
+        "username": "emmalain"
+      }
+    }
+  ],
+  "cards": [
+    {
+      "id": "63629d4ac08b1d00f42bef45",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 10,
+        "checkItemsChecked": 10,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": "2022-11-06T11:00:00.000Z",
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2022-11-02T17:40:42.587Z",
+      "desc": "Ответственные - участники\nСобытие - название карточки\nДата и время начала - Даты карточки\nПост ссылка - вложения карточки\nКоличество участников - комментарий",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2022-11-06T11:00:00.000Z",
+      "dueReminder": 1440,
+      "email": "emmalain+2ucq8lhz2iwkau07u3l+2zcqzo3961vv5f8a5ol+2113fhvd54@boards.trello.com",
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "idChecklists": [
+        "63629d4edadc5b011d48408a"
+      ],
+      "idLabels": [],
+      "idList": "63629cfd505ccc0043b332c0",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idShort": 1,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Что надо указать, чтобы не было беды с таблицей",
+      "pos": 65535,
+      "shortLink": "3EdBGPw8",
+      "shortUrl": "https://trello.com/c/3EdBGPw8",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/3EdBGPw8/1-%D1%87%D1%82%D0%BE-%D0%BD%D0%B0%D0%B4%D0%BE-%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C-%D1%87%D1%82%D0%BE%D0%B1%D1%8B-%D0%BD%D0%B5-%D0%B1%D1%8B%D0%BB%D0%BE-%D0%B1%D0%B5%D0%B4%D1%8B-%D1%81-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B5%D0%B9",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "63629dde07598e0058c5b441",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 3,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2022-11-02T16:43:00.962Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "emmalain+2ucq8lhz2iwkau07u3l+2zcr040lxtsrf427arl+0zrzrx8xzz@boards.trello.com",
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "idChecklists": [
+        "63629de431d141018d08006d"
+      ],
+      "idLabels": [],
+      "idList": "63629cfd505ccc0043b332c0",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idShort": 2,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Что надо отследить",
+      "pos": 131071,
+      "shortLink": "SyWDUIWY",
+      "shortUrl": "https://trello.com/c/SyWDUIWY",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/SyWDUIWY/2-%D1%87%D1%82%D0%BE-%D0%BD%D0%B0%D0%B4%D0%BE-%D0%BE%D1%82%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D1%82%D1%8C",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "63629ee87f6da90591019798",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": true,
+        "fogbugz": "",
+        "checkItems": 6,
+        "checkItemsChecked": 6,
+        "checkItemsEarliestDue": null,
+        "comments": 1,
+        "attachments": 2,
+        "description": true,
+        "due": "2022-11-01T16:00:00.000Z",
+        "dueComplete": true,
+        "start": null
+      },
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": true,
+      "dateLastActivity": "2022-11-02T20:19:37.797Z",
+      "desc": "Место и время\n==============================\nYouTube: https://youtube.com/@geekmo\n19:00 - 22:00\nПосты VK\n==============================\n30.10 (вс), 14:00\n01.11 (вт), 19:00",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2022-11-01T16:00:00.000Z",
+      "dueReminder": 1440,
+      "email": "emmalain+2ucq8lhz2iwkau07u3l+2zcr0wtzi22umfs4wwo+0cpgjqcu68@boards.trello.com",
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "idChecklists": [
+        "6362a6c9c76bdd00c9eb9c35"
+      ],
+      "idLabels": [
+        "63629cd11c38c7538d55e7a2",
+        "6362d0d9f014dd024764c545"
+      ],
+      "idList": "63629ead17f4f501a2172b54",
+      "idMembers": [
+        "5ec17deb789acf1add806c21"
+      ],
+      "idMembersVoted": [],
+      "idShort": 3,
+      "idAttachmentCover": null,
+      "labels": [
+        {
+          "id": "63629cd11c38c7538d55e7a2",
+          "idBoard": "63629cd1678d5901ebd2a324",
+          "name": "Онлайн",
+          "color": "blue"
+        },
+        {
+          "id": "6362d0d9f014dd024764c545",
+          "idBoard": "63629cd1678d5901ebd2a324",
+          "name": "event",
+          "color": null
+        }
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Стрим: WC3 Reforged [01.11]",
+      "pos": 65535,
+      "shortLink": "wSIa56rR",
+      "shortUrl": "https://trello.com/c/wSIa56rR",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": true,
+      "url": "https://trello.com/c/wSIa56rR/3-%D1%81%D1%82%D1%80%D0%B8%D0%BC-wc3-reforged-0111",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        {
+          "bytes": null,
+          "date": "2022-11-02T17:22:44.144Z",
+          "edgeColor": null,
+          "idMember": "5ec17deb789acf1add806c21",
+          "isUpload": false,
+          "mimeType": "",
+          "name": "VK GEEKMO [30.10]",
+          "previews": [],
+          "url": "https://vk.com/wall-37784625_10747",
+          "pos": 16384,
+          "fileName": null,
+          "id": "6362a764b0b9460207c98869"
+        },
+        {
+          "bytes": null,
+          "date": "2022-11-02T17:34:29.078Z",
+          "edgeColor": null,
+          "idMember": "5ec17deb789acf1add806c21",
+          "isUpload": false,
+          "mimeType": "",
+          "name": "VK GEEKMO [01.11]",
+          "previews": [],
+          "url": "https://vk.com/wall-37784625_10768",
+          "pos": 32768,
+          "fileName": null,
+          "id": "6362aa255450d706920494ce"
+        }
+      ],
+      "pluginData": [],
+      "customFieldItems": []
+    }
+  ],
+  "labels": [
+    {
+      "id": "63629cd11c38c7538d55e7a2",
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "name": "Онлайн",
+      "color": "blue"
+    },
+    {
+      "id": "6362d0d9f014dd024764c545",
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "name": "event",
+      "color": null
+    },
+    {
+      "id": "63629cd11c38c7538d55e797",
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "name": "",
+      "color": "yellow"
+    },
+    {
+      "id": "63629cd11c38c7538d55e798",
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "name": "",
+      "color": "green"
+    },
+    {
+      "id": "63629cd11c38c7538d55e79a",
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "name": "",
+      "color": "orange"
+    },
+    {
+      "id": "63629cd11c38c7538d55e79d",
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "name": "",
+      "color": "red"
+    },
+    {
+      "id": "63629cd11c38c7538d55e7a4",
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "name": "",
+      "color": "purple"
+    }
+  ],
+  "lists": [
+    {
+      "id": "63629cfd505ccc0043b332c0",
+      "name": "Пример карточки поста",
+      "closed": false,
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "pos": 65535,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "63629ea7bdd9010154bcbc8a",
+      "name": "Понедельник",
+      "closed": false,
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "pos": 131071,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "63629ead17f4f501a2172b54",
+      "name": "Вторник",
+      "closed": false,
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "pos": 196607,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "63629eafefd48503dc6fb2b6",
+      "name": "Среда",
+      "closed": false,
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "pos": 262143,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "63629eb3597fb2018fd1865f",
+      "name": "Четверг",
+      "closed": false,
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "pos": 327679,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "63629ec0c2ad8c02308af597",
+      "name": "Пятница",
+      "closed": false,
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "pos": 393215,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "63629ec3856404004a437701",
+      "name": "Суббота",
+      "closed": false,
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "pos": 458751,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "63629ec95f82c200eced77a4",
+      "name": "Воскресенье",
+      "closed": false,
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "pos": 524287,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "6362c7f380bf4c02110140bf",
+      "name": "Выполнено",
+      "closed": false,
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "pos": 589823,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "creationMethod": null
+    }
+  ],
+  "members": [
+    {
+      "id": "5ec17deb789acf1add806c21",
+      "aaId": "70121:c5b332b0-ac83-4ccf-8d4a-ae82b3a092cc",
+      "activityBlocked": false,
+      "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a",
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "fullName": "Emma Lain (Аня)",
+      "idEnterprise": null,
+      "idEnterprisesDeactivated": [],
+      "idMemberReferrer": "5ddd4cedbe8cff0801254fec",
+      "idPremOrgsAdmin": [],
+      "initials": "E(",
+      "memberType": "normal",
+      "nonPublic": {
+        "fullName": "Emma Lain (Аня)",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5ec17deb789acf1add806c21/0265e6ef3eaa29b47845b6a526baed7a",
+        "avatarHash": "0265e6ef3eaa29b47845b6a526baed7a"
+      },
+      "nonPublicAvailable": true,
+      "products": [],
+      "url": "https://trello.com/emmalain",
+      "username": "emmalain",
+      "status": "disconnected"
+    }
+  ],
+  "checklists": [
+    {
+      "id": "63629de431d141018d08006d",
+      "name": "Чек-лист",
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "idCard": "63629dde07598e0058c5b441",
+      "pos": 16384,
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 160
+          }
+        }
+      },
+      "creationMethod": null,
+      "checkItems": [
+        {
+          "id": "63629dea584d5304b4d00afa",
+          "name": "Мероприятия",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 17159,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "63629de431d141018d08006d",
+          "state": "incomplete"
+        },
+        {
+          "id": "63629dfc46183e0264f928cf",
+          "name": "Контент-план",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 33976,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "63629de431d141018d08006d",
+          "state": "incomplete"
+        },
+        {
+          "id": "63629e14b913ce05e0867dbe",
+          "name": "Голос недели",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 51131,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "63629de431d141018d08006d",
+          "state": "incomplete"
+        }
+      ]
+    },
+    {
+      "id": "6362a6c9c76bdd00c9eb9c35",
+      "name": "Чек-лист",
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "idCard": "63629ee87f6da90591019798",
+      "pos": 16384,
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 160
+          }
+        }
+      },
+      "creationMethod": null,
+      "checkItems": [
+        {
+          "id": "6362a6e17062e2027908ea8a",
+          "name": "Заготовка поста",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 16746,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "6362a6c9c76bdd00c9eb9c35",
+          "state": "complete"
+        },
+        {
+          "id": "6362a6e8f725a102bdf0e7b1",
+          "name": "Текст",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 33237,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "6362a6c9c76bdd00c9eb9c35",
+          "state": "complete"
+        },
+        {
+          "id": "6362a6ee1026f90082e8e5b6",
+          "name": "Картинка",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 50233,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "6362a6c9c76bdd00c9eb9c35",
+          "state": "complete"
+        },
+        {
+          "id": "6362a6f209f6d000616ce239",
+          "name": "Рассылка",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 66860,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "6362a6c9c76bdd00c9eb9c35",
+          "state": "complete"
+        },
+        {
+          "id": "6362a6fd48c65201620c026a",
+          "name": "Ссылка вставлена",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 83535,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "6362a6c9c76bdd00c9eb9c35",
+          "state": "complete"
+        },
+        {
+          "id": "6362a7092a557900c1ffee2a",
+          "name": "В расписании",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 8373,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "6362a6c9c76bdd00c9eb9c35",
+          "state": "complete"
+        }
+      ]
+    },
+    {
+      "id": "63629d4edadc5b011d48408a",
+      "name": "Чек-лист",
+      "idBoard": "63629cd1678d5901ebd2a324",
+      "idCard": "63629d4ac08b1d00f42bef45",
+      "pos": 16384,
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 160
+          }
+        }
+      },
+      "creationMethod": null,
+      "checkItems": [
+        {
+          "id": "63629d5df3acce010a9fc6e7",
+          "name": "Дата",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 16621,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "63629d4edadc5b011d48408a",
+          "state": "complete"
+        },
+        {
+          "id": "63629d619610ec020e3f6946",
+          "name": "Время начала",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 33616,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "63629d4edadc5b011d48408a",
+          "state": "complete"
+        },
+        {
+          "id": "63629d656d110900358d4fcd",
+          "name": "Время конца",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 50894,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "63629d4edadc5b011d48408a",
+          "state": "complete"
+        },
+        {
+          "id": "63629d7787887201b6f7be50",
+          "name": "Ответственный (Кто будет)",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 68183,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "63629d4edadc5b011d48408a",
+          "state": "complete"
+        },
+        {
+          "id": "63629d7f5afa3101ef4e08a9",
+          "name": "Место",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 84993,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "63629d4edadc5b011d48408a",
+          "state": "complete"
+        },
+        {
+          "id": "63629d8238a3a20637a96dde",
+          "name": "Событие",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 102133,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "63629d4edadc5b011d48408a",
+          "state": "complete"
+        },
+        {
+          "id": "63629d89bc3e3705d7401b3c",
+          "name": "Пост дата",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 119463,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "63629d4edadc5b011d48408a",
+          "state": "complete"
+        },
+        {
+          "id": "63629d8c2c466903512f503f",
+          "name": "Пост время",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 136760,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "63629d4edadc5b011d48408a",
+          "state": "complete"
+        },
+        {
+          "id": "63629d96d3118c05dbec1bc2",
+          "name": "Пост ссылка",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 153445,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "63629d4edadc5b011d48408a",
+          "state": "complete"
+        },
+        {
+          "id": "63629d9b9693c10237201c7e",
+          "name": "Количество участников",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 170525,
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "63629d4edadc5b011d48408a",
+          "state": "complete"
+        }
+      ]
+    }
+  ],
+  "customFields": [],
+  "memberships": [
+    {
+      "idMember": "5ec17deb789acf1add806c21",
+      "memberType": "admin",
+      "unconfirmed": false,
+      "deactivated": false,
+      "id": "63629cd1678d5901ebd2a32c"
+    }
+  ],
+  "pluginData": []
+}
